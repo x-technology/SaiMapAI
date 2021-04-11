@@ -1,4 +1,4 @@
-# Introducing to Neural Seamap Generator
+# Introducing Neural Seamap Generator
 
 ### Date And Time
 Sat, April 10th, 2021 
